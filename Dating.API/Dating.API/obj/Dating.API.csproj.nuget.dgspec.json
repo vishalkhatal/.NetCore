@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vikhatal\\source\\repos\\Dating.API\\Dating.API\\Dating.API.csproj": {}
+    "C:\\Office\\GitHub-Vishal\\.NetCore\\Dating.API\\Dating.API\\Dating.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vikhatal\\source\\repos\\Dating.API\\Dating.API\\Dating.API.csproj": {
+    "C:\\Office\\GitHub-Vishal\\.NetCore\\Dating.API\\Dating.API\\Dating.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vikhatal\\source\\repos\\Dating.API\\Dating.API\\Dating.API.csproj",
+        "projectUniqueName": "C:\\Office\\GitHub-Vishal\\.NetCore\\Dating.API\\Dating.API\\Dating.API.csproj",
         "projectName": "Dating.API",
-        "projectPath": "C:\\Users\\vikhatal\\source\\repos\\Dating.API\\Dating.API\\Dating.API.csproj",
+        "projectPath": "C:\\Office\\GitHub-Vishal\\.NetCore\\Dating.API\\Dating.API\\Dating.API.csproj",
         "packagesPath": "C:\\Users\\vikhatal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vikhatal\\source\\repos\\Dating.API\\Dating.API\\obj\\",
+        "outputPath": "C:\\Office\\GitHub-Vishal\\.NetCore\\Dating.API\\Dating.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
